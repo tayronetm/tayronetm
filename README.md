@@ -1,7 +1,6 @@
 ### Hi there, I'm Tayrone 👋
 
-## I'm a student, and have a degree in Information Systems
-## I'm trying to reack my next level as a programer
+## I'm trying to reach my next level as a programer
 
 - ⚡ I’m currently working as front-end developer.
 - ⚡ I’m currently learning a lot about JavaScript.
